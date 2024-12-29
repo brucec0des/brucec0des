@@ -48,7 +48,7 @@ I'm an indie developer and content creator building my version of the digital wo
 [![Newbie Creating Avengers vs. X-Men Game App From Scratch (based on @CodeWithChris's War Card Game…](https://ytcards.demolab.com/?id=lTNJ8YjNKig&title=Newbie+Creating+Avengers+vs.+X-Men+Game+App+From+Scratch+%28based+on+%40CodeWithChris%27s+War+Card+Game%E2%80%A6&lang=en&timestamp=1710430641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Newbie Creating Avengers vs. X-Men Game App From Scratch (based on @CodeWithChris's War Card Game…")](https://www.youtube.com/watch?v=lTNJ8YjNKig)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@brucecodes?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-green?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@brucecodes/streams?sub_confirmation=1)
 
 #
 
