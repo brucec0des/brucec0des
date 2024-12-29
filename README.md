@@ -43,9 +43,7 @@ I'm an indie developer and content creator building my version of the digital wo
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Reworking App I Built for My Job](https://ytcards.demolab.com/?id=a0LtFp-7T2s&title=My+Experience+with+Rust+as+a+Java+Dev&lang=en&timestamp=1735398001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1183 "Reworking App I Built for My Job")](https://www.youtube.com/watch?v=YiAPoZ85j14&t=3607s)
-[![Making To-Do App with SwiftData & Maybe a WatchOS app](https://ytcards.demolab.com/?id=oUnWU4Y4kSY&title=Everything+You+NEED+to+Know+about+Docker&lang=en&timestamp=1734102064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1106 "Making To-Do App with SwiftData & Maybe a WatchOS app")](https://www.youtube.com/watch?v=D6bynuhaWwU)
-[![Creating Avengers vs. X-Men Game App From Scratch](https://ytcards.demolab.com/?id=BJatgOiiht4&title=7+Design+Patterns+EVERY+Developer+Should+Know&lang=en&timestamp=1733497212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1389 "Creating Avengers vs. X-Men Game App From Scratch")](https://www.youtube.com/watch?v=lTNJ8YjNKig&t=5398s)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@brucecodes?sub_confirmation=1)
