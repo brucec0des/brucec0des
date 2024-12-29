@@ -54,7 +54,7 @@ I'm an indie developer and content creator building my version of the digital wo
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucec0des&show_icons=true&theme=chartreuse-dark)
+![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucec0des&show_icons=true&theme=solarized-dark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
