@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Photographer/Creator)`**
 
-I’m a passionate indie developer and content creator dedicated to crafting innovative digital experiences. With my current focus in SwiftUI, I build applications from the ground up—transforming ideas into functional, real-world solutions. Beyond coding, I bring creativity to life through engaging video content, sharing my journey and insights on my YouTube channel [@BruceCodes][youtube]. Join me as I navigate the ever-evolving tech landscape, one project at a time.
+I’m a passionate indie developer and content creator dedicated to crafting innovative digital experiences. With my current focus in SwiftUI, I build applications from the ground up—transforming ideas into functional, real-world solutions. Beyond coding, I bring creativity to life through coding while live-streaming, sharing my journey and insights on my YouTube channel [@BruceCodes][youtube]. Join me as I navigate the ever-evolving tech landscape, one project at a time.
 <!--
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
