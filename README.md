@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Photographer/Creator)`**
 
-Hey! I'm a full-stack developer dedicated to crafting innovative digital experiences that are as robust as they are user-friendly. I'm constantly expanding my programming repertoire, embracing new languages to enhance my development toolkit. This commitment to learning keeps me adaptable and ready to tackle diverse projects. With my current focus in SwiftUI, I enjoy building applications from the ground up—transforming ideas into functional, real-world solutions. When I'm not coding, you'll likely find me immersed in virtual reality or watching Marvel movies, drawing inspiration from its creativity and storytelling.
+Hey! I'm a full-stack developer dedicated to crafting innovative digital experiences that are as robust as they are user-friendly. I'm constantly expanding my programming repertoire, embracing new languages to enhance my development toolkit. This commitment to learning keeps me adaptable and ready to tackle diverse projects. With my current focus in SwiftUI, I enjoy building applications from the ground up—transforming ideas into functional, real-world solutions. When I'm not coding, you'll likely find me immersed in virtual reality or watching Marvel movies, drawing inspiration from their creativity and storytelling.
 <!--
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
