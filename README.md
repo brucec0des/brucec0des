@@ -38,17 +38,17 @@ Hey! I'm a full-stack developer dedicated to crafting innovative digital experie
 <br />
 
 #
-
+<!--
 ### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
+-->
+<!-- BEGIN YOUTUBE-CARDS 
 [![Reworking App I Built for My Job | Swift & SwiftUI | iOS Development](https://ytcards.demolab.com/?id=YiAPoZ85j14&title=Reworking+App+I+Built+for+My+Job+%7C+Swift+%26+SwiftUI+%7C+iOS+Development&lang=en&timestamp=1720175797&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Reworking App I Built for My Job | Swift & SwiftUI | iOS Development")](https://www.youtube.com/watch?v=YiAPoZ85j14)
 [![Making To-Do App with SwiftData & Maybe a WatchOS app | Swift & SwiftUI | iOS Development](https://ytcards.demolab.com/?id=D6bynuhaWwU&title=Making+To-Do+App+with+SwiftData+%26+Maybe+a+WatchOS+app+%7C+Swift+%26+SwiftUI+%7C+iOS+Development&lang=en&timestamp=1723480966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making To-Do App with SwiftData & Maybe a WatchOS app | Swift & SwiftUI | iOS Development")](https://www.youtube.com/watch?v=D6bynuhaWwU)
 [![Newbie Creating Avengers vs. X-Men Game App From Scratch (based on @CodeWithChris's War Card Game…](https://ytcards.demolab.com/?id=lTNJ8YjNKig&title=Newbie+Creating+Avengers+vs.+X-Men+Game+App+From+Scratch+%28based+on+%40CodeWithChris%27s+War+Card+Game%E2%80%A6&lang=en&timestamp=1710430641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Newbie Creating Avengers vs. X-Men Game App From Scratch (based on @CodeWithChris's War Card Game…")](https://www.youtube.com/watch?v=lTNJ8YjNKig)
-<!-- END YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-green?style=for-the-badge&logo=video&logoColor=navy"/>](https://www.youtube.com/@brucecodes/streams?sub_confirmation=1)
-
+-->
 #
 
 ### 📊 Stats
