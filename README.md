@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer/Photographer/Creator)`**
 
 Hey! I'm a full-stack developer dedicated to crafting innovative digital experiences that are as robust as they are user-friendly. I'm constantly expanding my programming repertoire, embracing new languages to enhance my development toolkit. This commitment to learning keeps me adaptable and ready to tackle diverse projects. With my current focus in SwiftUI, I enjoy building applications from the ground up—transforming ideas into functional, real-world solutions. When I'm not coding, you'll likely find me immersed in virtual reality or watching Marvel movies, drawing inspiration from their creativity and storytelling.
-
+<!--
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -14,7 +14,7 @@ Hey! I'm a full-stack developer dedicated to crafting innovative digital experie
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+-->
 ---
 
 ### 🧰 Languages and Tools
