@@ -40,7 +40,6 @@ Hey! I'm a full-stack developer dedicated to crafting innovative digital experie
 #
 
 ### 📺 Latest YouTube Videos
--->
 
 [![Reworking App I Built for My Job | Swift & SwiftUI | iOS Development](https://ytcards.demolab.com/?id=YiAPoZ85j14&title=Reworking+App+I+Built+for+My+Job+%7C+Swift+%26+SwiftUI+%7C+iOS+Development&lang=en&timestamp=1720175797&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Reworking App I Built for My Job | Swift & SwiftUI | iOS Development")](https://www.youtube.com/watch?v=YiAPoZ85j14)
 [![Making To-Do App with SwiftData & Maybe a WatchOS app | Swift & SwiftUI | iOS Development](https://ytcards.demolab.com/?id=D6bynuhaWwU&title=Making+To-Do+App+with+SwiftData+%26+Maybe+a+WatchOS+app+%7C+Swift+%26+SwiftUI+%7C+iOS+Development&lang=en&timestamp=1723480966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making To-Do App with SwiftData & Maybe a WatchOS app | Swift & SwiftUI | iOS Development")](https://www.youtube.com/watch?v=D6bynuhaWwU)
